@@ -199,8 +199,6 @@
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../../../ios/**";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native/React/**",
-					"$(SRCROOT)/../../react-native/React/**",
 					"$(PROJECT_DIR)/../../../ios/**",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
@@ -216,8 +214,6 @@
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../../../ios/**";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native/React/**",
-					"$(SRCROOT)/../../react-native/React/**",
 					"$(PROJECT_DIR)/../../../ios/**",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
